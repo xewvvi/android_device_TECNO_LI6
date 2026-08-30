@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pb_LI6.mk
+    $(LOCAL_DIR)/twrp_LI6.mk
 
 COMMON_LUNCH_CHOICES := \
-    pb_LI6-userdebug
+    twrp_LI6-eng
