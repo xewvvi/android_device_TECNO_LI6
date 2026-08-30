@@ -65,5 +65,3 @@ if [ $RET -ne 0 ];then
 else
     echo "OK: All patched"
 fi
-
-echo "Andriana has touched your build"
