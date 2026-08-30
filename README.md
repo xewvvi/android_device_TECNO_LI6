@@ -1,3 +1,6 @@
+> [!CAUTION]  
+> If you are building this source, do not use the generated `vendor_boot.img` directly!!
+
 ## TECNO POVA 6 Neo 4G (_LI6_)
 ## TWRP / OrangeFox device tree
 
